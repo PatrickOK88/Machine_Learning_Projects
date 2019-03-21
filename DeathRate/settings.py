@@ -1,1 +1,0 @@
-PROCESSED_DIR = "processed"
